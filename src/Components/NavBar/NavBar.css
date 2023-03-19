@@ -1,0 +1,39 @@
+.navBarContainer{
+    width: 100vw;
+    height: 4rem;
+    background-color: rgb(255, 244, 244);
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.logo>img{
+    width: 3rem;
+}
+.navInner{
+    margin: 0 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cartIcon{
+    position: relative;
+    cursor: pointer;
+}
+.productCount{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    color: white;
+    font-size: 0.7rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: -13px;
+    right: -13px;
+}

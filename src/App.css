@@ -1,0 +1,8 @@
+body{
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.App {
+  text-align: center;
+}
+
