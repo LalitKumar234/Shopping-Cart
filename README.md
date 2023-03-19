@@ -1,4 +1,4 @@
-This is a very simple shopping cart for beginners in React JS
+### This is a very simple shopping cart for beginners in React JS
 
 Type npm install in your terminal to install all the dependencies and then npm start
 
